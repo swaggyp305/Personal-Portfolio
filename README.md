@@ -1,34 +1,34 @@
 Personal Portfolio Website
 
-A modern, high-performance personal portfolio built with Next.js, TypeScript, and Tailwind CSS. Designed to highlight my work through a clean UI, engaging animations, and a scalable architecture.
+A modern, high-performance personal portfolio built with Next.js, TypeScript, and Tailwind CSS. Designed to showcase my work through a clean UI, interactive animations, and a scalable architecture.
 
-Overview
+🚀 Features
 
-Interactive Animated Hero – Custom canvas-based particle animation
+Interactive Animated Hero — Custom canvas-based particle animation
 
-Project Gallery – Structured cards with descriptions, tags, and links
+Project Gallery — Structured cards with descriptions, tags, and links
 
-Responsive Design – Mobile-first layout built with Tailwind
+Responsive Design — Mobile-first UI with Tailwind CSS
 
-Modular Architecture – Component-driven and easy to extend
+Modular Architecture — Component-based, maintainable, and easy to extend
 
-Type-Safe Development – End-to-end TypeScript
+End-to-End Type Safety — Full TypeScript implementation
 
-Performance Optimized – Next.js App Router, Turbopack, and built-in caching
+Performance Focused — Next.js App Router, Turbopack, and built-in optimizations
 
-Getting Started
+🛠️ Getting Started
 npm install
 npm run dev
 # Visit http://localhost:3000
 
-Project Structure
+📁 Project Structure
 src/
 ├── app/              # Routes and pages (Next.js App Router)
 ├── components/       # Reusable React components
 ├── data/             # Project data and configurations
 └── lib/              # Utility functions
 
-Tech Stack
+🧰 Tech Stack
 
 Next.js 14+
 
@@ -38,7 +38,7 @@ Tailwind CSS
 
 Node.js 18+
 
-Deployment
+📦 Deployment
 
 Build and run locally:
 
@@ -46,8 +46,4 @@ npm run build
 npm start
 
 
-Deployments are handled through Vercel, with automatic builds on each push.
-
-License
-
-MIT License
+Deployments are handled through Vercel, with automatic builds on each push to main.
